@@ -27,19 +27,14 @@ Para rodar esse programa você precisa de um compilador C.
 **Clonando o Repositório**
 
 ```
-$ git clone git@github.com:Vitoria-th/ListaLigada.git
+$ git clone git@github.com:vitori4th/ListaLigada.git
 
 $ cd ListaLigada
 ```
 
 ### Rodando
 
-Com o compilador instalado, você pode rodar o programa:
-
-```
-Pressionando f11, para salvar e compilar o código.
-
-```
+Com o compilador instalado, você pode rodar o programa.
 
 ## Feito com
 
